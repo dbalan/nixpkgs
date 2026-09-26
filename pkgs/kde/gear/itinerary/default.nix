@@ -18,5 +18,6 @@ mkKdeDerivation {
     qtpositioning
     libical
   ];
+
   meta.mainProgram = "itinerary";
 }
